@@ -1,4 +1,4 @@
-# money-tracker
+# money-tracking
 
 ## Project setup
 ```
